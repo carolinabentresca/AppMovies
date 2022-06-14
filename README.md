@@ -1,4 +1,3 @@
-## Proyecto Java Spring Boot 
 ### API REST con relaciones @ManyToOne / @OneToMany en Spring Boot
 
 ![Postman 13_6_2022 19_49_59](https://user-images.githubusercontent.com/88462536/173464018-77e50d0a-deb3-4949-857f-fd120555fdfd.png)
